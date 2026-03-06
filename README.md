@@ -7,12 +7,11 @@ I am a Computer Science Engineering student at Amrita Vishwa Vidyapeetham, speci
 - Artificial Intelligence & Machine Learning
 - Natural Language Processing
 - Database Management Systems
-- Signal Processing
 - Software Engineering
-- Robotics (ROS Jazzy)
 
 ## 💼 Projects
 ### 🎯 **Recent Projects:**
+- **DeepGlide** - Deep Learning Framework for Shotput Glide Analysis
 - **Scopus Publication Indexer and Tracker** - A software engineering project for indexing and tracking research publications.
 - **Speech-Based Abusive Language Detection** - Combines speech-to-text conversion and audio feature analysis to detect tone, aggression, or abusive words.
 - **Pali-English Translation using Transformer Models** - Implements Seq2Seq models to translate ancient Pali texts to meaningful English sentences.
